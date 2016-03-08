@@ -37,6 +37,12 @@ STEP 3：执行命令`./run.sh`或`bash run.sh`，然后就可以等待程序自
 ![](images/screenshot_peiyang.jpg)
 
 
+免责声明
+---
+
+以上工具仅供学习交流，您一旦使用请自行承担相应的风险。
+
+
 License
 ---
 
