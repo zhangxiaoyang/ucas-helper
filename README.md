@@ -26,7 +26,7 @@ peiyang
 
 <https://github.com/zhangxiaoyang/ucas-helper/tree/master/peiyang>
 
-![](screenshot_peiyang.jpg)
+![](images/screenshot_peiyang.jpg)
 
 
 License
